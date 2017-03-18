@@ -2,6 +2,7 @@
 创建和打包ionic2
 
 ## （一）安装nodejs
+
     * 下载地址：[https://nodejs.org/en/](https://nodejs.org/en/)
     * 安装好后在命令行中输入 `node -v` 和 `npm -v` 查看是否安装成功
 
@@ -18,5 +19,5 @@
     * 输入以下命令，切换到淘宝镜像源：
 
         * `npm install -g cnpm --registry=http://registry.npm.taobao.org`
-        
+
     * 之后所有用到的 npm 命令都可以使用 cnpm 来代替进行 install。但是需要注意 cnpm 不支持 publish 命令
