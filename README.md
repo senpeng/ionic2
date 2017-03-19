@@ -38,6 +38,6 @@
 * 查看是否安装成功，查看版本号：
     * `ionic -v`
     
-    `C:\Users\李森鹏>ionic -v
+    `C:\Users\username>ionic -v
      
      2.2.1`
