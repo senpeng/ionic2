@@ -6,14 +6,14 @@
 * 下载地址：[https://nodejs.org/en/](https://nodejs.org/en/)
 * 安装好后在命令行中输入 `node -v` 和 `npm -v` 查看是否安装成功
 
-`Microsoft Windows [版本 10.0.10240]
-(c) 2015 Microsoft Corporation. All rights reserved. 
+    `Microsoft Windows [版本 10.0.10240]
+    (c) 2015 Microsoft Corporation. All rights reserved. 
 
-C:\WINDOWS\system32>node -v
-v6.10.0
+    C:\WINDOWS\system32>node -v
+    v6.10.0
 
-C:\WINDOWS\system32>npm -v
-3.10.10`
+    C:\WINDOWS\system32>npm -v
+    3.10.10`
 
 * 因为国内的网络环境原因，在下载npm包的时候经常会遇到无法正常下载的情况，这时可以使用国内淘宝推出了 npm 镜像
 * 输入以下命令，切换到淘宝镜像源：
@@ -35,4 +35,4 @@ C:\WINDOWS\system32>npm -v
 
 * 查看是否安装成功，查看版本号：
     * `ionic -v`
-    ![安装ionic2](images/ionic2demo_img_01.png)
+    * ![安装ionic2](images/ionic2demo_img_01.png)
