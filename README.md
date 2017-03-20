@@ -71,11 +71,11 @@
 
         ![JDK环境变量配置](images/jdk-04.png)
 
-    2. 找到系统变量Path进行编辑，在后面添加 `\;%JAVA_HOME%\bin`;
+    2. 找到系统变量Path进行编辑，在后面添加 `\;%JAVA_HOME%\bin;`
     
         ![JDK环境变量配置](images/jdk-05.png)
 
     3. 验证JDK环境变量是否配置成功
         * 在命令行中输入 `java -version` 和 `javac -versoin`
 
-        ![JDK环境变量配置](images/jdk-06.png)
+        ![JDK环境变量配置](images/jdk-07.png)
