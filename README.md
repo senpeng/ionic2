@@ -58,3 +58,15 @@
 ## （二）安装JDK
 
 * 下载JDK安装包，下载地址：[http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* 安装JDK，并配置系统变量：
+     1. 新建环境变量：
+        * 变量名：JAVA_HOME
+        * 变量值：C:\Program Files\Java\jdk1.8.0_121（JDK安装的路径）
+
+    ![JDK环境变量配置](images/jdk-01.png) 
+
+    ![JDK环境变量配置](images/jdk-02.png)
+
+    ![JDK环境变量配置](images/jdk-03.png)
+
+    ![JDK环境变量配置](images/jdk-04.png)
