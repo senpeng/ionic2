@@ -52,5 +52,9 @@
     * `cordova -v`
     
     `C:\Users\lsp>cordova -v
-    
+
      6.5.0`
+
+## （二）安装JDK
+
+* 下载JDK安装包，下载地址：[http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
