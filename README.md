@@ -52,4 +52,5 @@
     * `cordova -v`
     
     `C:\Users\lsp>cordova -v
+    
      6.5.0`
