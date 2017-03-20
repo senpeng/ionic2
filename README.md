@@ -41,3 +41,9 @@
     `C:\Users\username>ionic -v
      
      2.2.1`
+
+## （二）安装Cordova
+
+* 输入以下命令安装Cordova (建议使用 cnpm 代替 npm)：
+
+    * `npm install -g cordova`
