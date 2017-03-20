@@ -35,7 +35,7 @@
     
     * `npm uninstall -g ionic`
 
-* 查看是否安装成功，查看版本号：
+* 安装完成后查看版本号：
     * `ionic -v`
     
     `C:\Users\username>ionic -v
