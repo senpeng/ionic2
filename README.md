@@ -38,7 +38,7 @@
 * 安装完成后查看版本号：
     * `ionic -v`
     
-    `C:\Users\username>ionic -v
+    `C:\Users\lsp>ionic -v
      
      2.2.1`
 
@@ -50,3 +50,6 @@
     
 * 安装完成后查看版本号：
     * `cordova -v`
+    
+    `C:\Users\lsp>cordova -v
+     6.5.0`
