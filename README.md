@@ -47,3 +47,6 @@
 * 输入以下命令安装Cordova (建议使用 cnpm 代替 npm)：
 
     * `npm install -g cordova`
+    
+* 安装完成后查看版本号：
+    * `cordova -v`
