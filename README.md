@@ -80,7 +80,7 @@
 
         ![JDK环境变量配置](images/jdk-07.png)
 
-## （五） 下载安装 Apache Ant
+## （五） 安装 Apache Ant
 
 * 下载地址：[http://mirror.tcpdiag.net/apache//ant/binaries/apache-ant-1.9.4-bin.zip](http://mirror.tcpdiag.net/apache//ant/binaries/apache-ant-1.9.4-bin.zip)
 * 下载完成后解压该文件至某个安全的目录下，然后将该文件夹内的bin文件夹路径添加至系统Path环境变量中（添加方法和java配置path变量是一样的，注意以 ； 隔开每个环境变量的值）
