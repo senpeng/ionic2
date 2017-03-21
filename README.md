@@ -87,4 +87,5 @@
     ![配置Ant环境变量](images/ant-01.png)
 
 * 验证Ant环境变量是否配置成功，在命令行中输入 `ant -version`
+
     ![查看Ant版本](images/ant-02.png)
