@@ -42,7 +42,7 @@
      
      2.2.1`
 
-## （二）安装Cordova
+## （三）安装Cordova
 
 * 输入以下命令安装Cordova (建议使用 cnpm 代替 npm)：
 
@@ -55,7 +55,7 @@
 
      6.5.0`
 
-## （二）安装JDK
+## （四）安装JDK
 
 * 下载JDK安装包，下载地址：[http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * 安装JDK，并配置系统变量：
@@ -79,3 +79,5 @@
         * 在命令行中输入 `java -version` 和 `javac -versoin`
 
         ![JDK环境变量配置](images/jdk-07.png)
+
+## （五） 下载安装 Apache Ant
