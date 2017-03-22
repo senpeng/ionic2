@@ -89,3 +89,5 @@
 * 验证Ant环境变量是否配置成功，在命令行中输入 `ant -version`
 
     ![查看Ant版本](images/ant-02.png)
+
+## （六） 安装 Android SDK
