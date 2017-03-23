@@ -24,7 +24,6 @@
 
 * 之后所有用到的 npm 命令都可以使用 cnpm 来代替进行 install。但是需要注意 cnpm 不支持 publish 命令
 
-
 ## （二）安装ionic2
 
 * 输入以下命令安装 Ionic （如果设置了淘宝镜像源，可以使用 cnpm 代替 npm）：
