@@ -95,3 +95,6 @@
 * 下载地址：[http://tools.android-studio.org/index.php/sdk](http://tools.android-studio.org/index.php/sdk)
 
 * 安装完成后，配置系统环境变量，分别是 Android SDK中tools目录的路径和platform-tools的路径
+    1. 新建环境变量：
+        * 变量名：ANDROID_HOME
+        * 变量值：C:\Program Files (x86)\Android\android-sdk\tools （SDK安装路径）
