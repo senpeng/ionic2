@@ -94,4 +94,4 @@
 
 * 下载地址：[http://tools.android-studio.org/index.php/sdk](http://tools.android-studio.org/index.php/sdk)
 
-* 安装完成后，配置两个系统环境变量，分别是 Android SDK中tools目录的路径和platform-tools的路径
+* 安装完成后，配置系统环境变量，分别是 Android SDK中tools目录的路径和platform-tools的路径
