@@ -100,3 +100,7 @@
         * 变量值：C:\Program Files (x86)\Android\android-sdk（SDK安装路径）
         
         ![新建 android sdk 系统变量](images/android-sdk-06.png)
+    
+    2. 编辑用户变量 Path 添加 `;%ANDROID_HOME\tools%` 
+        
+        ![编辑用户变量](images/android-sdk-07.png)
