@@ -91,3 +91,5 @@
     ![查看Ant版本](images/ant-02.png)
 
 ## （六） 安装 Android SDK
+
+* 下载地址：[http://tools.android-studio.org/index.php/sdk](http://tools.android-studio.org/index.php/sdk)
