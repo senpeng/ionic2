@@ -109,3 +109,6 @@
 
         ![编辑系统变量](images/android-sdk-08.png)
     
+* 验证SDK环境变量是否配置成功，在命令行中输入 `adb`
+
+    ![查看SDK系统变量配置](images/android-sdk-09.png)
