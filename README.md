@@ -97,4 +97,6 @@
 * 安装完成后，配置系统环境变量，分别是 Android SDK中tools目录的路径和platform-tools的路径
     1. 新建环境变量：
         * 变量名：ANDROID_HOME
-        * 变量值：C:\Program Files (x86)\Android\android-sdk\tools （SDK安装路径）
+        * 变量值：C:\Program Files (x86)\Android\android-sdk（SDK安装路径）
+        
+        ![新建 android sdk 系统变量](images/android-sdk-06.png)
