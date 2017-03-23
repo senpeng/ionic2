@@ -104,3 +104,8 @@
     2. 编辑用户变量 Path 添加 `;%ANDROID_HOME\tools%` 
         
         ![编辑用户变量](images/android-sdk-07.png)
+
+    3. 编辑系统变量 Path 添加 `%ANDROID_HOME%\platform-tools;`
+
+        ![编辑系统变量](images/android-sdk-08.png)
+    
