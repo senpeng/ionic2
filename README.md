@@ -139,3 +139,10 @@
     * `ionic platform add android`
     
     ![添加Android环境](images/android-01.png)
+
+## （九） 打包生成 APP
+* 执行以下命令，打包生成 APP
+    * `ionic build android` 
+
+
+
