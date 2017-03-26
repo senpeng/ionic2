@@ -127,4 +127,4 @@
     * `cd projectName`
     * `cnpm install`
 
-    ![使用 cnpm 进行下载](images/ionic2-02.png)
+    ![npm modules 安装成功](images/ionic2-02.png)
