@@ -114,7 +114,7 @@
     ![查看SDK系统变量配置](images/android-sdk-09.png)
 
 
-## （六） 创建项目
+## （七） 创建项目
 
 * 打开 Node 命令行，进入到要创建项目的目录，使用 start 命令来创建一个新App：
     * `ionic start projectName --v2` 
@@ -132,3 +132,5 @@
 * 进入项目目录，使用 `ionic serve` 命令，在浏览器上运行项目
 
     ![浏览器上运行项目](images/ionic2-03.png)
+
+## （八） 添加配置Android环境
