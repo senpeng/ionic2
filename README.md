@@ -126,3 +126,5 @@
 * 解决方法：进入到项目目录，使用 cnpm 命令进行下载：
     * `cd projectName`
     * `cnpm install`
+
+    ![使用 cnpm 进行下载](images/ionic2-02.png)
