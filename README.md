@@ -112,3 +112,13 @@
 * 验证SDK环境变量是否配置成功，在命令行中输入 `adb`
 
     ![查看SDK系统变量配置](images/android-sdk-09.png)
+
+
+## （六） 创建项目
+
+* 打开 Node 命令行，进入到要创建项目的目录，使用 start 命令来创建一个新App：
+    * `ionic start projectName --v2` 
+    
+* 有可能会报错，npm 安装的时候失败
+    
+    ![npm安装失败](images/ionic2-01.png)
