@@ -128,3 +128,7 @@
     * `cnpm install`
 
     ![npm modules 安装成功](images/ionic2-02.png)
+
+* 进入项目目录，使用 `ionic serve` 命令，在浏览器上运行项目
+
+    ![浏览器上运行项目](images/ionic2-03.png)
