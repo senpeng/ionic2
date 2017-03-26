@@ -122,3 +122,7 @@
 * 有可能会报错，npm 安装的时候失败
     
     ![npm安装失败](images/ionic2-01.png)
+
+* 解决方法：进入到项目目录，使用 cnpm 命令进行下载：
+    * `cd projectName`
+    * `cnpm install`
