@@ -134,3 +134,7 @@
     ![浏览器上运行项目](images/ionic2-03.png)
 
 ## （八） 添加配置Android环境
+* 在项目目录，添加配置 Android 环境，执行以下命令：
+    * `ionic platform add android`
+    
+    ![添加Android环境](images/android-01.png)
