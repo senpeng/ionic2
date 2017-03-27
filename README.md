@@ -144,5 +144,8 @@
 * 执行以下命令，打包生成 APP
     * `ionic build android` 
 
+## （十） 遇到的问题
+
+
 
 
