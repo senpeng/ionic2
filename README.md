@@ -145,7 +145,7 @@
     * `ionic build android` 
 
 ## （十） 遇到的问题
-
+* gradle 下载太慢后失败
 
 
 
