@@ -170,8 +170,8 @@
 
 ## （十） 打包成功
 * 编译成功
-
-        ![编译成功](images/build-success-01.png)
+    
+    ![编译成功](images/build-success-01.png)
 
         ![apk路径](images/build-success-02.png)
 
