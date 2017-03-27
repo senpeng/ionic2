@@ -150,7 +150,7 @@
     ![gradle下载](images/gradle-01.png)
 
 * 解决方法：
-    1. 手动下载 gradle,下载地址：[https://services.gradle.org/distributions/gradle-2.14.1-all.zip](https://services.gradle.org/distributions/gradle-2.14.1-all.zip)
+    1 手动下载 gradle,下载地址：[https://services.gradle.org/distributions/gradle-2.14.1-all.zip](https://services.gradle.org/distributions/gradle-2.14.1-all.zip)
 
 
 
