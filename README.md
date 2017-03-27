@@ -155,7 +155,9 @@
         
         ![gradle下载](images/gradle-02.png)
 
-    3. 打开项目目录下的 `platforms\android\cordova\lib\builders\GradleBuilder.js` 文件，找到 `CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL`
+    3. 打开项目目录下的 `platforms\android\cordova\lib\builders\GradleBuilder.js` 文件，找到 `CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL` (不用对 GradleBuilder.js 文件进行修改)
+        
+        ![gradle下载](images/gradle-03.png)
 
 
 
