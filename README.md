@@ -149,5 +149,8 @@
     
     ![gradle下载](images/gradle-01.png)
 
+* 解决方法：
+    1. 手动下载 gradle,下载地址：
+
 
 
