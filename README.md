@@ -162,6 +162,8 @@
     4. 在 Node 命令行中设置 `CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL` 的值为下载的 gradle, 执行如下命令：
         * `set CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL=../gradle-2.14.1-all.zip`
 
+        ![gradle设置](images/gradle-04.png)
+
 
 
 
