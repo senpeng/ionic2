@@ -173,10 +173,10 @@
     
     ![编译成功](images/build-success-01.png)
 
-        ![apk路径](images/build-success-02.png)
+    ![apk路径](images/build-success-02.png)
 
 * 在模拟器上运行
     
-        ![模拟器上运行](images/build-success-03.png)
+    ![模拟器上运行](images/build-success-03.png)
 
 
