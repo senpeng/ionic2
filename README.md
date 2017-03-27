@@ -164,6 +164,8 @@
 
         ![gradle设置](images/gradle-04.png)
 
+        ![gradle设置成功](images/gradle-05.png)
+
 
 
 
