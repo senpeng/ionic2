@@ -151,6 +151,10 @@
 
 * 解决方法：
     1. 手动下载 gradle,下载地址：[https://services.gradle.org/distributions/gradle-2.14.1-all.zip](https://services.gradle.org/distributions/gradle-2.14.1-all.zip)
+    2. 将下载好的压缩包放在项目目录下的 `platforms\android\gradle` 的文件夹里
+        
+        ![gradle下载](images/gradle-02.png)
+
 
 
 
