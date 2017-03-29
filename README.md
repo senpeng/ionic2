@@ -1,5 +1,5 @@
 # ionic2
-创建和打包ionic2
+ionic2
 
 ## （一）安装nodejs
 
